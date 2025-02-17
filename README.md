@@ -42,6 +42,3 @@ dlib
 
 Testing 
 During testing, we found Subject 9 getting out of the frame, so we did not compute Subject 9 (SN009) in our features. Also, for the combined HOG&Gabor, the computation time to run was too high so random subjects were selected. 
-
-Contribution 
-The project was collaboratively developed with equal contributions from both team members, ensuring a comprehensive approach to the problem and solution development.
